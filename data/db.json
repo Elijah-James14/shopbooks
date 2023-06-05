@@ -1,0 +1,280 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Web Development with Django",
+      "overview": "Learn how to create your own websites simply, safely, and quickly with Django by tackling practical activities based on realistic case studies",
+      "long_description": "Do you want to develop reliable and secure applications which stand out from the crowd, rather than spending hours on boilerplate code? Then the Django framework is where you should begin. Often referred to as a 'batteries included' web development framework, Django comes with all the core features needed to build a standalone application. Web Development with Django takes this philosophy and equips you with the knowledge and confidence to build real-world applications using Python. Starting with the essential concepts of Django, you'll cover its major features by building a website called Bookr – a repository for book reviews. This end-to-end case study is split into a series of bitesize projects that are presented as exercises and activities, allowing you to challenge yourself in an enjoyable and attainable way. Starting with the essential concepts of Django, you'll cover its major features by building a website called Bookr – a repository for book reviews. This end-to-end case study is split into a series of bitesize projects that are presented as exercises and activities, allowing you to challenge yourself in an enjoyable and attainable way. By the end of this book, you'll have the skills and confidence to creatively tackle your own ambitious projects with Django.",
+      "price": 19,
+      "poster": "https://m.media-amazon.com/images/I/41y7wqTppKL.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 15,
+      "best_seller": true
+    },
+    {
+      "id": 10002,
+      "name": "Node.js Web Development",
+      "overview": "Build scalable web applications using Node.js, Express.js, and the latest ECMAScript techniques, along with deploying applications with AWS and Docker with this updated fifth edition",
+      "long_description": "Node.js is the leading choice of server-side web development platform, enabling developers to use the same tools and paradigms for both server-side and client-side software. This updated fifth edition of Node.js Web Development focuses on the new features of Node.js 14, Express 4.x, and ECMAScript, taking you through modern concepts, techniques, and best practices for using Node.js.",
+      "price": 199,
+      "poster": "https://m.media-amazon.com/images/I/51pNmWED2pL.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "size": 23,
+      "best_seller": true
+    },
+    {
+      "id": 10003,
+      "name": "HTML5, CSS3, and JavaScript",
+      "overview": "A three-book set for front-end developers and web designers",
+      "long_description": "The book is aimed at web developers and designers who want to learn HTML5, CSS3, and JavaScript. It is for beginners in web development and web design. This book is a complete reference book for those who want to learn HTML, CSS, and JavaScript codes for front-end web development. For individuals who want to build websites or learn web design",
+      "price": 89,
+      "poster": "https://m.media-amazon.com/images/I/51ZUwwX-p7L.jpg",
+      "rating": 1,
+      "in_stock": false,
+      "size": 8,
+      "best_seller": false
+    },
+    {
+      "id": 10004,
+      "name": "Learn Python Quickly",
+      "overview": " A Complete Beginner’s Guide to Learning Python, Even If You’re New to Programming (Crash Course With Hands-On Project)",
+      "long_description": "Looking to learn Python? Python has gone to be one of the most popular programming languages in the world, and you will be one of the few people left out if you don’t add this knowledge to your arsenal. If you’re looking to learn Python, now is an excellent time to do so. But where do you begin?",
+      "price": 189,
+      "poster": "https://m.media-amazon.com/images/P/1951791274.01._SCLZZZZZZZ_SX500_.jpg",
+      "rating": 5,
+      "in_stock": true,
+      "size": 56,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "Learn JavaScript Quickly",
+      "overview": "A Complete Beginner’s Guide to Learning JavaScript, Even If You’re New to Programming (Crash Course With Hands-On Project)",
+      "long_description": "Developers and programmers are amongst the highest paid professions in the world, and according to the US Bureau of Labor Statistics, the number of jobs for software and app developers will increase by a shocking 24% in the next few years. In 2019, the tech industry posted 4.6 million job openings in the US job market, and their direct economic output was estimated at 1.9 trillion dollars.",
+      "price": 150,
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/61HUuiDH+0L._AC_UL116_SR116,116_.jpg",
+      "rating": 5,
+      "in_stock": false,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10006,
+      "name": "The Road to React",
+      "overview": "Your journey to master plain yet pragmatic React.js",
+      "long_description": "In The Road to React, you will learn about all the fundamentals of React.js with Hooks while building a full-blown React application step by step. While you create the React application, every chapter will introduce you to a new React key feature. However, there is more than only the fundamentals: The book dives into related topics (e.g. React with TypeScript, Testing, Performance Optimizations) and advanced feature implementations like client- and server-side searching. At the end of the book, you will have a fully working deployed React application",
+      "price": 125,
+      "poster": "https://m.media-amazon.com/images/I/51EyrsWbMGL._AC_UY436_FMwebp_QL65_.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 110,
+      "best_seller": true
+    },
+    {
+      "id": 10007,
+      "name": "Becoming an Enterprise Django Developer",
+      "overview": " Discover best practices, tooling, and solutions for writing and organizing Django applications in production",
+      "long_description": "",
+      "price": 19,
+      "poster": "https://m.media-amazon.com/images/I/61l8swR3asL._AC_UY436_FMwebp_QL65_.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 17,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "Algorithms in a Nutshell",
+      "overview": "Creating robust software requires the use of efficient algorithms, but programmers seldom think about them until a problem occurs.",
+      "long_description": "This updated edition of Algorithms in a Nutshell describes a large number of existing algorithms for solving a variety of problems, and helps you select and implement the right algorithm for your needs—with just enough math to let you understand and analyze algorithm performance. With its focus on application, rather than theory, this book provides efficient code solutions in several programming languages that you can easily adapt to a specific project. Each major algorithm is presented in the style of a design pattern that includes information to help you understand why and when the algorithm is appropriate.",
+      "price": 149,
+      "poster": "https://m.media-amazon.com/images/I/91UkqbQYVVL._AC_UY436_QL65_.jpg",
+      "rating": 5,
+      "in_stock": false,
+      "size": 10,
+      "best_seller": true
+    },
+    {
+      "id": 10009,
+      "name": "React Hooks in Action",
+      "overview": "Build stylish, slick, and speedy-to-load user interfaces in React without writing custom classes. React Hooks are a new category of functions that help you to manage state, lifecycle, and side effects within functional components.",
+      "long_description": "React Hooks in Action teaches you to write fast and reusable React components using Hooks. You’ll start by learning to create component code with Hooks. Next, you’ll implement a resource booking application that demonstrates managing local state, application state, and side effects like fetching data. Code samples and illustrations make learning Hooks easy.",
+      "price": 79,
+      "poster": "https://m.media-amazon.com/images/I/41iy2pQGh0L._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 19,
+      "best_seller": true
+    },
+    {
+      "id": 10010,
+      "name": "Designing APIs with Swagger and OpenAPI",
+      "overview": "Follow real-world API projects from concept to production, and learn hands-on how to describe and design APIs using OpenAPI.",
+      "long_description": "Create web APIs that customers and developers will love! Using Swagger, a collection of tools for defining and documenting REST APIs, you will build safe, controlled access to your software. And because Swagger implements the vendor-neutral OpenAPI specification, you’ll be building to the same standards adopted by Google, Microsoft, and Amazon.",
+      "price": 99,
+      "poster": "https://m.media-amazon.com/images/I/41yZCOMs18L._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 2,
+      "in_stock": true,
+      "size": 16,
+      "best_seller": false
+    },
+    {
+      "id": 10011,
+      "name": "Full Stack Development with Spring Boot and React",
+      "overview": "Build modern and scalable web applications using the power of Java and React, 3rd Edition",
+      "long_description": "Getting started with full stack development can be daunting. Even developers who are familiar with the best tools, such as Spring Boot and React, can struggle to nail the basics, let alone master the more advanced elements. If you're one of these developers, this comprehensive guide covers everything you need! This updated edition of the Full Stack Development with Spring Boot 2 and React book will take you from novice to proficient in this expansive domain. Taking a practical approach, this book will first walk you through the latest Spring Boot features for creating a robust backend, covering everything from setting up the environment and dependency injection to security and testing.",
+      "price": 119,
+      "poster": "https://m.media-amazon.com/images/I/71jnETwAS+L._AC_UY436_QL65_.jpg",
+      "rating": 1,
+      "in_stock": false,
+      "size": 20,
+      "best_seller": false
+    },
+    {
+      "id": 10012,
+      "name": "Responsive Web Design with HTML5 and CSS",
+      "overview": "Harness the latest capabilities of HTML5 and CSS to create a single UI that works flawlessly on mobile phones, tablets, and desktops — plus everything in-between - now with color images!",
+      "long_description": "Responsive Web Design with HTML5 and CSS, Fourth Edition, is a fully revamped and extended version of one of the most comprehensive and bestselling books on the latest HTML5 and CSS techniques for responsive web design. It emphasizes pragmatic application, teaching you the approaches needed to build most real-life websites, with downloadable examples in every chapter. ",
+      "price": 139,
+      "poster": "https://m.media-amazon.com/images/I/41uCGaAP1WL._BG0,0,0,0_FMpng_AC_SY320_SX320_.jpg",
+      "rating": 1,
+      "in_stock": true,
+      "size": 75,
+      "best_seller": false
+    },
+    {
+      "id": 10013,
+      "name": "Beginner's Step-by-Step Coding Course",
+      "overview": "With this visual guide to computer programming for beginners, it has never been easier to learn how to code. ",
+      "long_description": "Coding skills are in high demand and the need for programmers is still growing. Covering three of the most popular languages for new coders, this book uses a graphic method to break complex subjects into user-friendly chunks, bringing essential skills within easy reach. Each chapter contains tutorials on practical projects designed to teach you the main applications of each language, such as building websites, creating games, and designing apps. The book also looks at many of the main coding languages that are out there, outlining the key applications of each language, so you can choose the right language for you.",
+      "price": 69,
+      "poster": "https://images-na.ssl-images-amazon.com/images/I/81FSZRKVFwL._AC_UL320_SR320,320_.jpg",
+      "rating": 2,
+      "in_stock": false,
+      "size": 10,
+      "best_seller": true
+    },
+    {
+      "id": 10014,
+      "name": "React and React Native",
+      "overview": "Get up to speed with React, React Native, GraphQL and Apollo for building cross-platform native apps with the help of practical examples",
+      "long_description": "React and React Native, Facebook's innovative User Interface (UI) libraries, are designed to help you build robust cross-platform web and mobile applications. This updated third edition is improved and updated to cover the latest version of React. The book particularly focuses on the latest developments in the React ecosystem, such as modern Hook implementations, code splitting using lazy components and Suspense, user interface framework components using Material-UI, and Apollo. In terms of React Native, the book has been updated to version 0.62 and demonstrates how to apply native UI components for your existing mobile apps using NativeBase. You will begin by learning about the essential building blocks of React components. Next, you'll progress to working with higher-level functionalities in application development, before putting this knowledge to use by developing user interface components for the web and for native platforms. In the concluding chapters, you'll learn how to bring your application together with a robust data architecture.",
+      "price": 199,
+      "poster": "https://m.media-amazon.com/images/I/61acdiPRZQL._AC_UY436_FMwebp_QL65_.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 100,
+      "best_seller": false
+    },
+    {
+      "id": 10015,
+      "name": "Beginning MERN Stack",
+      "overview": "Build and Deploy a Full Stack MongoDB, Express, React, Node.js App",
+      "long_description": "In this book, we take you on a fun, hands-on and pragmatic journey to learning MERN stack development. You'll start building your first MERN stack app within minutes. Every chapter is written in a bite-sized manner and straight to the point as I don’t want to waste your time (and most certainly mine) on the content you don't need. In the end, you will have the skills to create a Movies review app and deploy it to the Internet.",
+      "price": 119,
+      "poster": "https://m.media-amazon.com/images/I/41y8qC9RT0S._BG0,0,0,0_FMpng_AC_SY480_SX480_.jpg",
+      "rating": 3,
+      "in_stock": false,
+      "size": 30,
+      "best_seller": true
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10010,
+      "name": "Designing APIs with Swagger and OpenAPI",
+      "overview": "Follow real-world API projects from concept to production, and learn hands-on how to describe and design APIs using OpenAPI.",
+      "long_description": "Create web APIs that customers and developers will love! Using Swagger, a collection of tools for defining and documenting REST APIs, you will build safe, controlled access to your software. And because Swagger implements the vendor-neutral OpenAPI specification, you’ll be building to the same standards adopted by Google, Microsoft, and Amazon.",
+      "price": 99,
+      "poster": "https://m.media-amazon.com/images/I/41yZCOMs18L._BG0,0,0,0_FMpng_AC_SY160_SX160_.jpg",
+      "rating": 2,
+      "in_stock": true,
+      "size": 16,
+      "best_seller": false
+    },
+    {
+      "id": 10001,
+      "name": "Web Development with Django",
+      "overview": "Learn how to create your own websites simply, safely, and quickly with Django by tackling practical activities based on realistic case studies",
+      "long_description": "Do you want to develop reliable and secure applications which stand out from the crowd, rather than spending hours on boilerplate code? Then the Django framework is where you should begin. Often referred to as a 'batteries included' web development framework, Django comes with all the core features needed to build a standalone application. Web Development with Django takes this philosophy and equips you with the knowledge and confidence to build real-world applications using Python. Starting with the essential concepts of Django, you'll cover its major features by building a website called Bookr – a repository for book reviews. This end-to-end case study is split into a series of bitesize projects that are presented as exercises and activities, allowing you to challenge yourself in an enjoyable and attainable way. Starting with the essential concepts of Django, you'll cover its major features by building a website called Bookr – a repository for book reviews. This end-to-end case study is split into a series of bitesize projects that are presented as exercises and activities, allowing you to challenge yourself in an enjoyable and attainable way. By the end of this book, you'll have the skills and confidence to creatively tackle your own ambitious projects with Django.",
+      "price": 19,
+      "poster": "https://m.media-amazon.com/images/I/41y7wqTppKL.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 15,
+      "best_seller": true
+    },
+    {
+      "id": 10014,
+      "name": "React and React Native",
+      "overview": "Get up to speed with React, React Native, GraphQL and Apollo for building cross-platform native apps with the help of practical examples",
+      "long_description": "React and React Native, Facebook's innovative User Interface (UI) libraries, are designed to help you build robust cross-platform web and mobile applications. This updated third edition is improved and updated to cover the latest version of React. The book particularly focuses on the latest developments in the React ecosystem, such as modern Hook implementations, code splitting using lazy components and Suspense, user interface framework components using Material-UI, and Apollo. In terms of React Native, the book has been updated to version 0.62 and demonstrates how to apply native UI components for your existing mobile apps using NativeBase. You will begin by learning about the essential building blocks of React components. Next, you'll progress to working with higher-level functionalities in application development, before putting this knowledge to use by developing user interface components for the web and for native platforms. In the concluding chapters, you'll learn how to bring your application together with a robust data architecture.",
+      "price": 199,
+      "poster": "https://m.media-amazon.com/images/I/61acdiPRZQL._AC_UY436_FMwebp_QL65_.jpg",
+      "rating": 4,
+      "in_stock": true,
+      "size": 100,
+      "best_seller": false
+    }
+  ],
+  "orders": [
+    {
+      "products": [
+        {
+          "id": 10001,
+          "name": "Web Development with Django",
+          "overview": "Learn how to create your own websites simply, safely, and quickly with Django by tackling practical activities based on realistic case studies",
+          "long_description": "Do you want to develop reliable and secure applications which stand out from the crowd, rather than spending hours on boilerplate code? Then the Django framework is where you should begin. Often referred to as a 'batteries included' web development framework, Django comes with all the core features needed to build a standalone application. Web Development with Django takes this philosophy and equips you with the knowledge and confidence to build real-world applications using Python. Starting with the essential concepts of Django, you'll cover its major features by building a website called Bookr – a repository for book reviews. This end-to-end case study is split into a series of bitesize projects that are presented as exercises and activities, allowing you to challenge yourself in an enjoyable and attainable way. Starting with the essential concepts of Django, you'll cover its major features by building a website called Bookr – a repository for book reviews. This end-to-end case study is split into a series of bitesize projects that are presented as exercises and activities, allowing you to challenge yourself in an enjoyable and attainable way. By the end of this book, you'll have the skills and confidence to creatively tackle your own ambitious projects with Django.",
+          "price": 19,
+          "poster": "https://m.media-amazon.com/images/I/41y7wqTppKL.jpg",
+          "rating": 4,
+          "in_stock": true,
+          "size": 15,
+          "best_seller": true
+        },
+        {
+          "id": 10002,
+          "name": "Node.js Web Development",
+          "overview": "Build scalable web applications using Node.js, Express.js, and the latest ECMAScript techniques, along with deploying applications with AWS and Docker with this updated fifth edition",
+          "long_description": "Node.js is the leading choice of server-side web development platform, enabling developers to use the same tools and paradigms for both server-side and client-side software. This updated fifth edition of Node.js Web Development focuses on the new features of Node.js 14, Express 4.x, and ECMAScript, taking you through modern concepts, techniques, and best practices for using Node.js.",
+          "price": 199,
+          "poster": "https://m.media-amazon.com/images/I/51pNmWED2pL.jpg",
+          "rating": 5,
+          "in_stock": true,
+          "size": 23,
+          "best_seller": true
+        },
+        {
+          "id": 10006,
+          "name": "The Road to React",
+          "overview": "Your journey to master plain yet pragmatic React.js",
+          "long_description": "In The Road to React, you will learn about all the fundamentals of React.js with Hooks while building a full-blown React application step by step. While you create the React application, every chapter will introduce you to a new React key feature. However, there is more than only the fundamentals: The book dives into related topics (e.g. React with TypeScript, Testing, Performance Optimizations) and advanced feature implementations like client- and server-side searching. At the end of the book, you will have a fully working deployed React application",
+          "price": 125,
+          "poster": "https://m.media-amazon.com/images/I/51EyrsWbMGL._AC_UY436_FMwebp_QL65_.jpg",
+          "rating": 4,
+          "in_stock": true,
+          "size": 110,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": "$343",
+      "quantity": 3,
+      "user": {
+        "name": "Elijah James",
+        "email": "elijah@example.com",
+        "id": 1
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "elijah@example.com",
+      "password": "$2a$10$cOWLdTAXm1Zpk7Egt3mj1Orbt58IpX7EpgAz92SiaMh2YySyU7mtu",
+      "name": "Elijah James",
+      "id": 1
+    }
+  ]
+}
