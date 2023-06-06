@@ -31,8 +31,8 @@ const LogIn = () => {
   async function handleLoginAsGuest() {
     try {
       const details = {
-        email: "elijah@example.com",
-        password: "Eleezyboy01",
+        email: process.env.REACT_APP_GUEST_LOGIN,
+        password: process.env.REACT_APP_GUEST_PASSWORD,
       };
       const data = await login(details);
       data.accessToken
