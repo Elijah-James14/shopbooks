@@ -27,6 +27,21 @@ const LogIn = () => {
   useEffect(() => {
     title("LogIn");
   }, []);
+
+  async function handleLoginAsGuest() {
+    try {
+      const details = {
+        email: "elijah@example.com",
+        password: "Eleezyboy01",
+      };
+      const data = await login(details);
+      data.accessToken
+        ? toast.success("You're logged in") && navigate("/products")
+        : toast.error(data);
+    } catch (error) {
+      toast.error(error.message);
+    }
+  }
   return (
     <>
       <h1 className="text-center mt-3 mb-3 font-bold text-3xl underline underline-offset-8">
@@ -70,11 +85,12 @@ const LogIn = () => {
           Log In
         </button>
       </form>
-      {/*  <button
-          className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-        >
-          Log In As Guest
-        </button>*/}
+      <button
+        onClick={handleLoginAsGuest}
+        className="mt-5 ml-5 text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+      >
+        Log In As Guest
+      </button>
     </>
   );
 };
