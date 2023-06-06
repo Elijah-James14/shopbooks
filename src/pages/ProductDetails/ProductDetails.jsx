@@ -4,8 +4,9 @@ import { toast } from "react-toastify";
 import { useParams } from "react-router-dom";
 import Rating from "../../components/layouts/Elements/Rating";
 import { CartUse } from "../../contexts/CartContext";
-import { getProduct } from "../../services/ProductService";
 import { title } from "../../Hooks/UseTitle";
+
+import { getProduct } from "../../services/ProductService";
 
 const ProductDetails = () => {
   const [product, setProduct] = useState({});
